@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the EditableBlock component snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Page"
+  >
+    <p
+      class="Block"
+      contenteditable="true"
+    />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`renders the EditableBlock component snapshot 2`] = `
+<DocumentFragment>
+  <getcaretcoordinates />
+</DocumentFragment>
+`;
